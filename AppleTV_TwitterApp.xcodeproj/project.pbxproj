@@ -1,0 +1,495 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3EF0A3F81CF348D2008B5EBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF0A3F71CF348D2008B5EBD /* AppDelegate.swift */; };
+		3EF0A3FA1CF348D2008B5EBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF0A3F91CF348D2008B5EBD /* ViewController.swift */; };
+		3EF0A3FD1CF348D2008B5EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EF0A3FB1CF348D2008B5EBD /* Main.storyboard */; };
+		3EF0A3FF1CF348D2008B5EBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EF0A3FE1CF348D2008B5EBD /* Assets.xcassets */; };
+		3EF0A40A1CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF0A4091CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift */; };
+		3EF0A4151CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF0A4141CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3EF0A4061CF348D2008B5EBD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3EF0A3EC1CF348D2008B5EBD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3EF0A3F31CF348D2008B5EBD;
+			remoteInfo = AppleTV_TwitterApp;
+		};
+		3EF0A4111CF348D2008B5EBD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3EF0A3EC1CF348D2008B5EBD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3EF0A3F31CF348D2008B5EBD;
+			remoteInfo = AppleTV_TwitterApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleTV_TwitterApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A3F71CF348D2008B5EBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3EF0A3F91CF348D2008B5EBD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3EF0A3FC1CF348D2008B5EBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3EF0A3FE1CF348D2008B5EBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3EF0A4001CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_TwitterAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A4091CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleTV_TwitterAppTests.swift; sourceTree = "<group>"; };
+		3EF0A40B1CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_TwitterAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A4141CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleTV_TwitterAppUITests.swift; sourceTree = "<group>"; };
+		3EF0A4161CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3EF0A3F11CF348D2008B5EBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A4021CF348D2008B5EBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A40D1CF348D2008B5EBD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3EF0A3EB1CF348D2008B5EBD = {
+			isa = PBXGroup;
+			children = (
+				3EF0A3F61CF348D2008B5EBD /* AppleTV_TwitterApp */,
+				3EF0A4081CF348D2008B5EBD /* AppleTV_TwitterAppTests */,
+				3EF0A4131CF348D2008B5EBD /* AppleTV_TwitterAppUITests */,
+				3EF0A3F51CF348D2008B5EBD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3EF0A3F51CF348D2008B5EBD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */,
+				3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */,
+				3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3EF0A3F61CF348D2008B5EBD /* AppleTV_TwitterApp */ = {
+			isa = PBXGroup;
+			children = (
+				3EF0A3F71CF348D2008B5EBD /* AppDelegate.swift */,
+				3EF0A3F91CF348D2008B5EBD /* ViewController.swift */,
+				3EF0A3FB1CF348D2008B5EBD /* Main.storyboard */,
+				3EF0A3FE1CF348D2008B5EBD /* Assets.xcassets */,
+				3EF0A4001CF348D2008B5EBD /* Info.plist */,
+			);
+			path = AppleTV_TwitterApp;
+			sourceTree = "<group>";
+		};
+		3EF0A4081CF348D2008B5EBD /* AppleTV_TwitterAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				3EF0A4091CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift */,
+				3EF0A40B1CF348D2008B5EBD /* Info.plist */,
+			);
+			path = AppleTV_TwitterAppTests;
+			sourceTree = "<group>";
+		};
+		3EF0A4131CF348D2008B5EBD /* AppleTV_TwitterAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3EF0A4141CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift */,
+				3EF0A4161CF348D2008B5EBD /* Info.plist */,
+			);
+			path = AppleTV_TwitterAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterApp" */;
+			buildPhases = (
+				3EF0A3F01CF348D2008B5EBD /* Sources */,
+				3EF0A3F11CF348D2008B5EBD /* Frameworks */,
+				3EF0A3F21CF348D2008B5EBD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AppleTV_TwitterApp;
+			productName = AppleTV_TwitterApp;
+			productReference = 3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3EF0A4041CF348D2008B5EBD /* AppleTV_TwitterAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppTests" */;
+			buildPhases = (
+				3EF0A4011CF348D2008B5EBD /* Sources */,
+				3EF0A4021CF348D2008B5EBD /* Frameworks */,
+				3EF0A4031CF348D2008B5EBD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3EF0A4071CF348D2008B5EBD /* PBXTargetDependency */,
+			);
+			name = AppleTV_TwitterAppTests;
+			productName = AppleTV_TwitterAppTests;
+			productReference = 3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3EF0A40F1CF348D2008B5EBD /* AppleTV_TwitterAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppUITests" */;
+			buildPhases = (
+				3EF0A40C1CF348D2008B5EBD /* Sources */,
+				3EF0A40D1CF348D2008B5EBD /* Frameworks */,
+				3EF0A40E1CF348D2008B5EBD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3EF0A4121CF348D2008B5EBD /* PBXTargetDependency */,
+			);
+			name = AppleTV_TwitterAppUITests;
+			productName = AppleTV_TwitterAppUITests;
+			productReference = 3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3EF0A3EC1CF348D2008B5EBD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Brandon Attala";
+				TargetAttributes = {
+					3EF0A3F31CF348D2008B5EBD = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					3EF0A4041CF348D2008B5EBD = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 3EF0A3F31CF348D2008B5EBD;
+					};
+					3EF0A40F1CF348D2008B5EBD = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 3EF0A3F31CF348D2008B5EBD;
+					};
+				};
+			};
+			buildConfigurationList = 3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_TwitterApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3EF0A3EB1CF348D2008B5EBD;
+			productRefGroup = 3EF0A3F51CF348D2008B5EBD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */,
+				3EF0A4041CF348D2008B5EBD /* AppleTV_TwitterAppTests */,
+				3EF0A40F1CF348D2008B5EBD /* AppleTV_TwitterAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3EF0A3F21CF348D2008B5EBD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EF0A3FF1CF348D2008B5EBD /* Assets.xcassets in Resources */,
+				3EF0A3FD1CF348D2008B5EBD /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A4031CF348D2008B5EBD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A40E1CF348D2008B5EBD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3EF0A3F01CF348D2008B5EBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EF0A3FA1CF348D2008B5EBD /* ViewController.swift in Sources */,
+				3EF0A3F81CF348D2008B5EBD /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A4011CF348D2008B5EBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EF0A40A1CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3EF0A40C1CF348D2008B5EBD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EF0A4151CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3EF0A4071CF348D2008B5EBD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */;
+			targetProxy = 3EF0A4061CF348D2008B5EBD /* PBXContainerItemProxy */;
+		};
+		3EF0A4121CF348D2008B5EBD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */;
+			targetProxy = 3EF0A4111CF348D2008B5EBD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3EF0A3FB1CF348D2008B5EBD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3EF0A3FC1CF348D2008B5EBD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3EF0A4171CF348D2008B5EBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		3EF0A4181CF348D2008B5EBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3EF0A41A1CF348D2008B5EBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = AppleTV_TwitterApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterApp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3EF0A41B1CF348D2008B5EBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = AppleTV_TwitterApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterApp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3EF0A41D1CF348D2008B5EBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = AppleTV_TwitterAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_TwitterApp.app/AppleTV_TwitterApp";
+			};
+			name = Debug;
+		};
+		3EF0A41E1CF348D2008B5EBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = AppleTV_TwitterAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_TwitterApp.app/AppleTV_TwitterApp";
+			};
+			name = Release;
+		};
+		3EF0A4201CF348D2008B5EBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = AppleTV_TwitterAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = AppleTV_TwitterApp;
+			};
+			name = Debug;
+		};
+		3EF0A4211CF348D2008B5EBD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = AppleTV_TwitterAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = AppleTV_TwitterApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_TwitterApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EF0A4171CF348D2008B5EBD /* Debug */,
+				3EF0A4181CF348D2008B5EBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EF0A41A1CF348D2008B5EBD /* Debug */,
+				3EF0A41B1CF348D2008B5EBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EF0A41D1CF348D2008B5EBD /* Debug */,
+				3EF0A41E1CF348D2008B5EBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EF0A4201CF348D2008B5EBD /* Debug */,
+				3EF0A4211CF348D2008B5EBD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3EF0A3EC1CF348D2008B5EBD /* Project object */;
+}
