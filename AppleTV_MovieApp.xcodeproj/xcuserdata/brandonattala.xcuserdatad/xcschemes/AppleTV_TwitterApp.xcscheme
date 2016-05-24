@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3EF0A3F31CF348D2008B5EBD"
-               BuildableName = "AppleTV_TwitterApp.app"
-               BlueprintName = "AppleTV_TwitterApp"
-               ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+               BuildableName = "AppleTV_MovieApp.app"
+               BlueprintName = "AppleTV_MovieApp"
+               ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3EF0A4041CF348D2008B5EBD"
-               BuildableName = "AppleTV_TwitterAppTests.xctest"
-               BlueprintName = "AppleTV_TwitterAppTests"
-               ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+               BuildableName = "AppleTV_MovieApp.xctest"
+               BlueprintName = "AppleTV_MovieAppTests"
+               ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3EF0A40F1CF348D2008B5EBD"
-               BuildableName = "AppleTV_TwitterAppUITests.xctest"
-               BlueprintName = "AppleTV_TwitterAppUITests"
-               ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+               BuildableName = "AppleTV_MovieApp.xctest"
+               BlueprintName = "AppleTV_MovieAppUITests"
+               ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3EF0A3F31CF348D2008B5EBD"
-            BuildableName = "AppleTV_TwitterApp.app"
-            BlueprintName = "AppleTV_TwitterApp"
-            ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+            BuildableName = "AppleTV_MovieApp.app"
+            BlueprintName = "AppleTV_MovieApp"
+            ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3EF0A3F31CF348D2008B5EBD"
-            BuildableName = "AppleTV_TwitterApp.app"
-            BlueprintName = "AppleTV_TwitterApp"
-            ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+            BuildableName = "AppleTV_MovieApp.app"
+            BlueprintName = "AppleTV_MovieApp"
+            ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3EF0A3F31CF348D2008B5EBD"
-            BuildableName = "AppleTV_TwitterApp.app"
-            BlueprintName = "AppleTV_TwitterApp"
-            ReferencedContainer = "container:AppleTV_TwitterApp.xcodeproj">
+            BuildableName = "AppleTV_MovieApp.app"
+            BlueprintName = "AppleTV_MovieApp"
+            ReferencedContainer = "container:AppleTV_MovieApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

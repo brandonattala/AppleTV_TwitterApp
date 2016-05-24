@@ -33,16 +33,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleTV_TwitterApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A3F41CF348D2008B5EBD /* AppleTV_MovieApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleTV_MovieApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF0A3F71CF348D2008B5EBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EF0A3F91CF348D2008B5EBD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3EF0A3FC1CF348D2008B5EBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3EF0A3FE1CF348D2008B5EBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EF0A4001CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_TwitterAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A4051CF348D2008B5EBD /* AppleTV_MovieApp.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_MovieApp.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF0A4091CF348D2008B5EBD /* AppleTV_TwitterAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleTV_TwitterAppTests.swift; sourceTree = "<group>"; };
 		3EF0A40B1CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_TwitterAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF0A4101CF348D2008B5EBD /* AppleTV_MovieApp.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppleTV_MovieApp.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF0A4141CF348D2008B5EBD /* AppleTV_TwitterAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleTV_TwitterAppUITests.swift; sourceTree = "<group>"; };
 		3EF0A4161CF348D2008B5EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -85,9 +85,9 @@
 		3EF0A3F51CF348D2008B5EBD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */,
-				3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */,
-				3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */,
+				3EF0A3F41CF348D2008B5EBD /* AppleTV_MovieApp.app */,
+				3EF0A4051CF348D2008B5EBD /* AppleTV_MovieApp.xctest */,
+				3EF0A4101CF348D2008B5EBD /* AppleTV_MovieApp.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,9 +125,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */ = {
+		3EF0A3F31CF348D2008B5EBD /* AppleTV_MovieApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterApp" */;
+			buildConfigurationList = 3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieApp" */;
 			buildPhases = (
 				3EF0A3F01CF348D2008B5EBD /* Sources */,
 				3EF0A3F11CF348D2008B5EBD /* Frameworks */,
@@ -137,14 +137,14 @@
 			);
 			dependencies = (
 			);
-			name = AppleTV_TwitterApp;
+			name = AppleTV_MovieApp;
 			productName = AppleTV_TwitterApp;
-			productReference = 3EF0A3F41CF348D2008B5EBD /* AppleTV_TwitterApp.app */;
+			productReference = 3EF0A3F41CF348D2008B5EBD /* AppleTV_MovieApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3EF0A4041CF348D2008B5EBD /* AppleTV_TwitterAppTests */ = {
+		3EF0A4041CF348D2008B5EBD /* AppleTV_MovieAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppTests" */;
+			buildConfigurationList = 3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieAppTests" */;
 			buildPhases = (
 				3EF0A4011CF348D2008B5EBD /* Sources */,
 				3EF0A4021CF348D2008B5EBD /* Frameworks */,
@@ -155,14 +155,14 @@
 			dependencies = (
 				3EF0A4071CF348D2008B5EBD /* PBXTargetDependency */,
 			);
-			name = AppleTV_TwitterAppTests;
+			name = AppleTV_MovieAppTests;
 			productName = AppleTV_TwitterAppTests;
-			productReference = 3EF0A4051CF348D2008B5EBD /* AppleTV_TwitterAppTests.xctest */;
+			productReference = 3EF0A4051CF348D2008B5EBD /* AppleTV_MovieApp.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3EF0A40F1CF348D2008B5EBD /* AppleTV_TwitterAppUITests */ = {
+		3EF0A40F1CF348D2008B5EBD /* AppleTV_MovieAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppUITests" */;
+			buildConfigurationList = 3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieAppUITests" */;
 			buildPhases = (
 				3EF0A40C1CF348D2008B5EBD /* Sources */,
 				3EF0A40D1CF348D2008B5EBD /* Frameworks */,
@@ -173,9 +173,9 @@
 			dependencies = (
 				3EF0A4121CF348D2008B5EBD /* PBXTargetDependency */,
 			);
-			name = AppleTV_TwitterAppUITests;
+			name = AppleTV_MovieAppUITests;
 			productName = AppleTV_TwitterAppUITests;
-			productReference = 3EF0A4101CF348D2008B5EBD /* AppleTV_TwitterAppUITests.xctest */;
+			productReference = 3EF0A4101CF348D2008B5EBD /* AppleTV_MovieApp.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -201,7 +201,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_TwitterApp" */;
+			buildConfigurationList = 3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_MovieApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -214,9 +214,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */,
-				3EF0A4041CF348D2008B5EBD /* AppleTV_TwitterAppTests */,
-				3EF0A40F1CF348D2008B5EBD /* AppleTV_TwitterAppUITests */,
+				3EF0A3F31CF348D2008B5EBD /* AppleTV_MovieApp */,
+				3EF0A4041CF348D2008B5EBD /* AppleTV_MovieAppTests */,
+				3EF0A40F1CF348D2008B5EBD /* AppleTV_MovieAppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -278,12 +278,12 @@
 /* Begin PBXTargetDependency section */
 		3EF0A4071CF348D2008B5EBD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */;
+			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_MovieApp */;
 			targetProxy = 3EF0A4061CF348D2008B5EBD /* PBXContainerItemProxy */;
 		};
 		3EF0A4121CF348D2008B5EBD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_TwitterApp */;
+			target = 3EF0A3F31CF348D2008B5EBD /* AppleTV_MovieApp */;
 			targetProxy = 3EF0A4111CF348D2008B5EBD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -391,7 +391,7 @@
 				INFOPLIST_FILE = AppleTV_TwitterApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterApp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AppleTV_MovieApp;
 			};
 			name = Debug;
 		};
@@ -403,7 +403,7 @@
 				INFOPLIST_FILE = AppleTV_TwitterApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterApp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AppleTV_MovieApp;
 			};
 			name = Release;
 		};
@@ -414,8 +414,8 @@
 				INFOPLIST_FILE = AppleTV_TwitterAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_TwitterApp.app/AppleTV_TwitterApp";
+				PRODUCT_NAME = AppleTV_MovieApp;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_MovieApp.app/AppleTV_MovieApp";
 			};
 			name = Debug;
 		};
@@ -426,8 +426,8 @@
 				INFOPLIST_FILE = AppleTV_TwitterAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_TwitterApp.app/AppleTV_TwitterApp";
+				PRODUCT_NAME = AppleTV_MovieApp;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppleTV_MovieApp.app/AppleTV_MovieApp";
 			};
 			name = Release;
 		};
@@ -437,7 +437,7 @@
 				INFOPLIST_FILE = AppleTV_TwitterAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AppleTV_MovieApp;
 				TEST_TARGET_NAME = AppleTV_TwitterApp;
 			};
 			name = Debug;
@@ -448,7 +448,7 @@
 				INFOPLIST_FILE = AppleTV_TwitterAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Brandon-Attala.AppleTV-TwitterAppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = AppleTV_MovieApp;
 				TEST_TARGET_NAME = AppleTV_TwitterApp;
 			};
 			name = Release;
@@ -456,7 +456,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_TwitterApp" */ = {
+		3EF0A3EF1CF348D2008B5EBD /* Build configuration list for PBXProject "AppleTV_MovieApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3EF0A4171CF348D2008B5EBD /* Debug */,
@@ -465,7 +465,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterApp" */ = {
+		3EF0A4191CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3EF0A41A1CF348D2008B5EBD /* Debug */,
@@ -473,7 +473,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppTests" */ = {
+		3EF0A41C1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3EF0A41D1CF348D2008B5EBD /* Debug */,
@@ -481,7 +481,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_TwitterAppUITests" */ = {
+		3EF0A41F1CF348D2008B5EBD /* Build configuration list for PBXNativeTarget "AppleTV_MovieAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3EF0A4201CF348D2008B5EBD /* Debug */,
